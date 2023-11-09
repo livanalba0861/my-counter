@@ -1,1 +1,1 @@
-https://livanalba0861.github.io/my-counter/
+https://vercel.com/livan-albas-projects/livanreactcounter
